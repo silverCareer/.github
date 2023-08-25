@@ -22,7 +22,69 @@
 ## 🙋🏻‍♀️ 구성원
 <table>
     <tr>
-        <td align="cente가
+        <td align="center">곽동현</td>
+        <td align="center">백연정</td>
+        <td align="center">성창호</td>
+        <td align="center">정재헌</td>
+        <td align="center">한성훈</td>
+    </tr>
+  <tr>
+        <td align="center"><a href="https://github.com/alivejuicy">@alivejuicy</a></td>
+        <td align="center"><a href="https://github.com/baek0402">@baek0402</a></td>
+        <td align="center"><a href="https://github.com/kylesung0520">@kylesung0520</a></td>
+        <td align="center"><a href="https://github.com/drdd1120">@drdd1120</a></td>
+        <td align="center"><a href="https://github.com/seonghunhan">@seonghunhan</a></td>
+    </tr>
+    <tr>
+        <td align="center"><span> <img width="160px" src="https://github.com/silverCareer/.github/assets/84756243/077401f6-6932-477a-9cb5-bb6b43652689" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/silverCareer/.github/assets/84756243/151bfc38-cba9-40f8-8626-e02cb54037ce" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/silverCareer/.github/assets/84756243/e9e8311c-c6f6-4b1a-a93a-082a3629416a" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/silverCareer/.github/assets/84756243/171be7f2-4751-471f-98bb-c273bd672f11" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/silverCareer/.github/assets/84756243/bd0b3ad7-5feb-487e-bbfb-5c0140cc0835" ></span></td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>백엔드</li>
+                <li>JWT, Redis</li>
+            </ul>
+        </td>
+      <td>
+            <ul>
+                <li>프론트엔드</li>
+                <li>메인화면, 상품 관</li>
+            </ul>
+      </td>
+      <td>
+          <ul>
+              <li>백엔드</li>
+              <li>Jenkins, </li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+              <li>백엔드</li>
+              <li>api</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+              <li>프론트엔드</li>
+              <li></li>
+          </ul>
+      </td>      
+    </tr>
+</table>
+
+<br>
+
+## 💡 프로젝트 소개
+"SilverCareer"은 경력이 있고, 능력이있는 60세 이상의 중장년층들이 멘토가 되어 노하우를 판매하는 서비스입니다. <br>
+
+- 은행 업무의 핵심인 여신으로 범위를 좁혔습니다.
+- 행원 및 관리자들이 보다 편하게 ERP 시스템을 다룰 수 있도록 간결한 UI/UX로 사용성 부분을 개선하고자 하였습니다
+- 여신상품 등록, 검색, 대출심사, 가입, 대출상환까지 여신 업무 전반에 대한 시스템을 개발하였습니다.
+- 고객관리, 직원관리, 수신관리 등 기본적인 내용도 포함하였습니다.
 
 <br>
 

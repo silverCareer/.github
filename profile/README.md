@@ -57,14 +57,15 @@
       </td>
       <td>
           <ul>
-              <li>상품 CRUD, 멘토 & 멘티 입찰 의뢰 알림, 입찰 CRUD, 리뷰 CRUD, 이미지 등록 기능, 코드 리팩토링 및 디버깅</li>
-              <li>DevOps : EC2, Docker, Jenkins 환경설정 및 자동 CI/CD 구축, S3 연동, GIthub 관리</li>
+              <li>상품, 멘토 & 멘티 입찰 의뢰 알림, 입찰 및 리뷰 API</li>
+              <li>이미지 등록 기능, 코드 리팩토링 및 디버깅</li>
+              <li>DevOps : EC2, Docker, Jenkins 환경설정 및 자동 CI/CD 구축, S3 연동, Github 관리</li>
           </ul>
       </td>
       <td>
           <ul>
-              <li></li>
-              <li>api</li>
+              <li>멤버, 계좌, 결제, 검색 API</li>
+              <li>코드 리팩토링 및 디버깅</li>
           </ul>
       </td>
       <td>

@@ -9,8 +9,22 @@
 
 <br>
 
+## 💡 프로젝트 소개
+SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중장년층들이 멘토가 되어 노하우를 판매하는 서비스입니다. 중장년층 멘토들의 경험과 지식을 2030 세대에게 전달하는 동시에 멘티들이 필요한 분야의 노하우를 습득할 수 있으며, 은퇴 이후에 경험과 가치를 살려 중장년층들이 새로운 경제 기회를 창출하도록 하는 플랫폼입니다.  
+
+<br>
+
+## ✏️ 주요 기능
+
+- 메인 페이지에서 원하는 상품 검색 기능 제공
+- 등록된 노하우 상품 중 원하는 상품을 결제하고 마이페이지 확인 가능
+- 노하우 의뢰 등록 이후 입찰 과정, 채택 과정에서 알림 서비스 제공
+- 멘토와 멘티의 1:1 채팅으로 필요한 정보 전달 기능 제공
+
+<br>
+
 ## 📽️ 시현 주소
-> 
+> [![silvercareer](http://img.youtube.com/vi/8xUhtjjZ7hA/0.jpg)](https://youtu.be/8xUhtjjZ7hA) 
 
 <br>
 
@@ -79,13 +93,7 @@
 
 <br>
 
-## 💡 프로젝트 소개
-"SilverCareer"은 경력이 있고, 능력이있는 60세 이상의 중장년층들이 멘토가 되어 노하우를 판매하는 서비스입니다. <br>
 
-- Jenkins를 통해 CI/CD를 구축하여 지속적 통합이 가능하도록 하였습니다. 
-- 웹소켓을 이용한 멘토와 멘티의 1대1 실시간 채팅이 가능합니다.
-- ?
-- ?
 
 <br>
 
@@ -98,6 +106,10 @@
 
 ## ☁️ 시스템 아키텍쳐
 ![image](https://github.com/silverCareer/.github/assets/84756243/0e80c7fc-e762-4315-91cb-b755ba271150)
+
+<br>
+
+## ⚒️ 기술적 고려 사항
 
 <br>
 
@@ -127,25 +139,3 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<br>
-
-## ✏️ 기능 리스트
-### 로그인
-1. 
-
-### 메인 화면
-1. 메인화면
-- 상위 10위 수강 상품 표시
-- 상품 전체 표시
-2. 카테고리
-- 카테고리별 상품 표시
-3. 멘토 상품 검색 기능
-4. (멘토) 상품 등록 기능
-5. (멘티) 의뢰 등록 기능
-6. 채팅 기능
-7. 마이페이지지
-
-<br>
-
-## ⚒️ 기술적 고려 사항

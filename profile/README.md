@@ -110,11 +110,8 @@ SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중�
 
 <br>
 
-## ⚒️ 기술적 고려 사항
 
-<br>
-
-## ☁️ Frontend & Backend 기술스택
+## ⚒️ Frontend & Backend 기술스택
 ![image](https://github.com/silverCareer/.github/assets/88662101/2c37cbe9-85f7-4bcc-8dbb-c2315787f362)
 
 <br>

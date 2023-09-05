@@ -13,6 +13,8 @@
 SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중장년층들이 멘토가 되어 노하우를 판매하는 서비스입니다. 중장년층 멘토들의 경험과 지식을 2030 세대에게 전달하는 동시에 멘티들이 필요한 분야의 노하우를 습득할 수 있으며, 은퇴 이후에 경험과 가치를 살려 중장년층들이 새로운 경제 기회를 창출하도록 하는 플랫폼입니다.  
 
 <br>
+<br>
+
 
 ## ✏️ 주요 기능
 
@@ -23,10 +25,12 @@ SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중�
 
 <br>
 
+
 ## 📽️ 시현 주소
 > [![silvercareer](http://img.youtube.com/vi/8xUhtjjZ7hA/0.jpg)](https://youtu.be/8xUhtjjZ7hA) 
 
 <br>
+
 
 ## 🖥️ 배포 주소
 > https://www.silvercareer.shop/
@@ -101,7 +105,7 @@ SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중�
 ## ☁️ 배포 환경
 ![image](https://github.com/silverCareer/.github/assets/88662101/6f030aa5-eb72-4092-af81-966d42448d8e)
 
-
+<br>
 <br>
 
 ## 🗄️ 데이터베이스 모델링
@@ -109,12 +113,15 @@ SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중�
 
 
 <br>
+<br>
 
 
 ## ⚒️ Frontend & Backend 기술스택
 ![image](https://github.com/silverCareer/.github/assets/88662101/2c37cbe9-85f7-4bcc-8dbb-c2315787f362)
 
 <br>
+<br>
+
 
 ## ⚙️ 기술 스택
 ### Environment

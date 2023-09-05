@@ -104,12 +104,18 @@ SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중�
 <br>
 
 
-## ☁️ 시스템 아키텍쳐
-![image](https://github.com/silverCareer/.github/assets/84756243/0e80c7fc-e762-4315-91cb-b755ba271150)
+## ☁️ 배포 환경
+![image](https://github.com/silverCareer/.github/assets/88662101/6f030aa5-eb72-4092-af81-966d42448d8e)
+
 
 <br>
 
 ## ⚒️ 기술적 고려 사항
+
+<br>
+
+## ☁️ Frontend & Backend 기술스택
+![image](https://github.com/silverCareer/.github/assets/88662101/2c37cbe9-85f7-4bcc-8dbb-c2315787f362)
 
 <br>
 

@@ -97,15 +97,15 @@ SilverCareer 프로젝트는 경력이 있고, 능력있는 60세 이상의 중�
 
 <br>
 
-## 📂 폴더 구조
-```
-
-```
-<br>
-
 
 ## ☁️ 배포 환경
 ![image](https://github.com/silverCareer/.github/assets/88662101/6f030aa5-eb72-4092-af81-966d42448d8e)
+
+
+<br>
+
+## 🗄️ 데이터베이스 모델링
+![image](https://github.com/silverCareer/.github/assets/88662101/f28881bb-0b88-4cae-bfc8-6f6d082c4eb7)
 
 
 <br>
